@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Adding multiple screens using navigation control
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with [EZGIF](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Using Navigation Control to figure out how to connect the calculator screen with the about screen was a challenge. By using online resources and exploring the iOS framework, I was able to implement this feature in my app!
 
 ## License
 
